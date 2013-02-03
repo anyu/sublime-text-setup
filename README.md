@@ -3,6 +3,14 @@ Sublime Text 2 setup
 
 <b>Color Scheme:</b> Monokai Bright
 
+Settings
+--------------  
+    // The number of spaces a tab is considered equal to
+    "tab_size": 2,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
 Plugins
 --------------
 - Package Control: http://wbond.net/sublime_packages/package_control
